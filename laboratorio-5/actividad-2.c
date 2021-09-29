@@ -2,15 +2,15 @@
 
 int main(){
 
-    printf("\n El programa trata de ingresar un caracter para que después se muestre con su código ASCII\n\n");
+    printf("\n El programa trata de ingresar un carácter para que después se muestre con su código ASCII\n\n");
 
     /*
-    Definir variable "carac" que es el caracter que se pide después
+    Definir variable "carac" que es el carácter que se pide después
     */
 
     char carac;
 
-    printf("Ingrese un caracter para que se muestre su codigo ASCII:  ");
+    printf("Ingrese un carácter para que se muestre su codigo ASCII:  ");
     scanf("%c", &carac);
 
     /*
