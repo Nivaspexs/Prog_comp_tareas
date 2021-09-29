@@ -3,7 +3,7 @@
 
 int main(){
 
-    printf("El programa consiste en obtener el perímetro y el área de un círculo en base al radio que el usuario ingresa\n");
+    printf("El programa consiste en obtener el perímetro y el área de un círculo en base al radio que el usuario ingresa\n\n");
 
 
     int radio;
@@ -17,13 +17,6 @@ int main(){
     area = M_PI * radio * radio ;
 
     printf("\nEl perímetro es %f y el área es %f", perimetro, area);
-
-
-    printf("%f\n", M_PI);
-
-
-
-
 
 
 
