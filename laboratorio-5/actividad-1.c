@@ -28,7 +28,7 @@ int main(){
     printf("\n El resultado de la suma es %i\n\n", resul);
 
     /*
-    Nt: Espaciar con \n fue esclusivamente para ordenar el programa
+    Nt: Espaciar con \n fue exclusivamente para ordenar el programa
     */
 
 return 0 ;
