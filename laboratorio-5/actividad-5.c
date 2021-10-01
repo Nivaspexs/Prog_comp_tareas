@@ -38,7 +38,7 @@ NF = (EvT1*0.5+EvT2*0.5)*0.3+(EvP1*0.2+EvP2*0.2+EvP3*0.6)*0.7
 
 prueba2 = (nota_f - prueba1*0.15 - practica1*0.14 - practica2*0.14 - practica3*0.42)/0.15 ;
 
-printf("%.2f", prueba2);
+printf("\nLa nota que necesitas es: %.2f\n", prueba2);
 
 
 
